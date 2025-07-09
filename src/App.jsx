@@ -1,9 +1,12 @@
 import React from 'react'
 
-function App() {
+function App()
+ {
+
   return (
-    <h1>App file Cleaned </h1>
+    <h1>App file Cleaned.Updated  </h1>
   )
+  
 }
 
 export default App
